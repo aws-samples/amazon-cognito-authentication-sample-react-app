@@ -1,11 +1,10 @@
-## My Project
+## React Sample Apps for Cognito Authentication Patterns
 
-TODO: Fill this README out!
+- Amplify Hosted UI
 
-Be sure to:
+  [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/aws-samples/amazon-cognito-authentication-sample-react-app/hosted-ui)
 
-* Change the title in this README
-* Edit your repository description on GitHub
+- Amplify Custom Workflow <a href="/hosted-ui">custom-workflow</a>
 
 ## Security
 
@@ -14,4 +13,3 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
-

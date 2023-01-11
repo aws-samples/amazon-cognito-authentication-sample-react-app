@@ -1,0 +1,19 @@
+{
+  "files.exclude": {
+    "custom-workflow/amplify/.config": true,
+    "custom-workflow/amplify/**/*-parameters.json": true,
+    "custom-workflow/amplify/**/amplify.state": true,
+    "custom-workflow/amplify/**/transform.conf.json": true,
+    "custom-workflow/amplify/#current-cloud-backend": true,
+    "custom-workflow/amplify/backend/amplify-meta.json": true,
+    "custom-workflow/amplify/backend/awscloudformation": true,
+    "hosted-ui/amplify/.config": true,
+    "hosted-ui/amplify/**/*-parameters.json": true,
+    "hosted-ui/amplify/**/amplify.state": true,
+    "hosted-ui/amplify/**/transform.conf.json": true,
+    "hosted-ui/amplify/#current-cloud-backend": true,
+    "hosted-ui/amplify/backend/amplify-meta.json": true,
+    "hosted-ui/amplify/backend/awscloudformation": true
+  },
+  "jest.jestCommandLine": "yarn test"
+}

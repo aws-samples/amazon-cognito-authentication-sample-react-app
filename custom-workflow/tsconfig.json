@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "allowJs": true,
+    "jsx": "react-jsx",
+    "target": "ES6",
+    "strict": false,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "lib": ["ES6", "DOM", "DOM.Iterable"]
+  },
+  "exclude": ["node_modules", "build", "public", ".vscode", "amplify"],
+  "include": ["**/*.ts", "**/*.tsx", "**/*.js", "**/*.jsx"]
+}
